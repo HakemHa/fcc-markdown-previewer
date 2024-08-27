@@ -270,6 +270,7 @@ textarea, textarea:active, textarea:focus {
       }
     }
   }
+  
   ol {
     display: block;
     list-style-type: decimal;
